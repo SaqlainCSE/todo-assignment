@@ -1,0 +1,20 @@
+{	"name": "weDevs/oop-task",
+	"description": "OOP PHP to-do list assignment",
+	"keywords": [
+		"php",
+		"task",
+		"todo",
+		"tasklist"
+	],
+	"authors": [
+        {
+            "name": "Saqlain Mustak",
+            "email": "saqlaincse@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"todo\\": "app"
+		}
+	}
+}
